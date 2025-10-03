@@ -7,6 +7,8 @@ Inspired by [El Cantor HS](https://github.com/azhizhinov/ELCANTORHS)
 This keyboard a mod of El Cantor HS with rp2040 MCU and diode matrix, optimized for handwired.
 
 * Keyboard Maintainer: [alko](https://github.com/alko-kbd/)
+* Gallery: [Cornedeon](https://cornedeon.ru)
+* Case 3D Model: [Thingiverse](https://www.thingiverse.com/thing:7161522)
 * Hardware Supported: rp2040-zero
 
 ## Build firmware
