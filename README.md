@@ -1,5 +1,6 @@
 # Cantordeon
-##Inspired by [El Cantor HS](https://github.com/azhizhinov/ELCANTORHS)
+
+Inspired by [El Cantor HS](https://github.com/azhizhinov/ELCANTORHS)
 
 ![Cantordeon](https://cornedeon.ru/img/cantordeon_1_over.jpg)
 
@@ -8,7 +9,7 @@ This keyboard a mod of El Cantor HS with rp2040 MCU and diode matrix, optimized 
 * Keyboard Maintainer: [alko](https://github.com/alko-kbd/)
 * Hardware Supported: rp2040-zero
 
-Build firmware:
+## Build firmware
 
 Prepare QMK/Vial build environment
 
