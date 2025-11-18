@@ -1,8 +1,9 @@
 # Cantordeon
 
-Inspired by [El Cantor HS](https://github.com/azhizhinov/ELCANTORHS)
+## Inspired by [El Cantor HS](https://github.com/azhizhinov/ELCANTORHS)
+## Based on [Cornedeon](https://github.com/alko-kbd/cornedeon)
 
-![Cantordeon](https://cornedeon.ru/img/cantordeon_1_over.jpg)
+![Cantordeon](img/cantordeon_1_over.jpg)
 
 This keyboard a mod of El Cantor HS with rp2040 MCU and diode matrix, optimized for handwired.
 
@@ -13,11 +14,9 @@ This keyboard a mod of El Cantor HS with rp2040 MCU and diode matrix, optimized 
 
 ## Build firmware
 
-Prepare QMK/Vial build environment
-
-Put its into keyboards/alko/canterdeon
-
-qmk compile -kb alko/cantordeon -km vial
+* Prepare QMK/Vial build environment
+* Put its into keyboards/alko/canterdeon
+* qmk compile -kb alko/cantordeon -km vial
 
 ## Bootloader
 
