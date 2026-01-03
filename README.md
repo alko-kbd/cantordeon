@@ -14,15 +14,15 @@ This keyboard a mod of El Cantor HS with rp2040 MCU and diode matrix, optimized 
 
 ## Build firmware
 
-* Prepare QMK/Vial build environment
-* Put its into keyboards/alko/canterdeon
-* qmk compile -kb alko/cantordeon -km vial
+* Prepare QMK/Vial build environment.
+* Copy directory cantordeon (or cantordeon_) into keyboards/alko/. cantordeon used original El'Cantor HS layout, cantordeon_ layout optimized for handwire and unified with Cornedeon layout.
+* qmk compile -kb alko/cantordeon -km vial.
 
 ## Bootloader
 
 Enter the bootloader in 3 ways:
 
-* **Bootmagic reset**: Hold down the two top left keys (top right for right side) and plug in the keyboard.
+* **Bootmagic reset**: Hold down the second key in top row and plug in the keyboard.
 * **Physical reset button**: 
   * Press and hold the BOOT button.
   * Press and release the RESET button.
